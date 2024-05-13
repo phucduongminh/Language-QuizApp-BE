@@ -35,4 +35,6 @@ out/
 ### VS Code ###
 .vscode/
 
+# Local configuration file (sdk path, etc)
 local.properties
+/local.properties
